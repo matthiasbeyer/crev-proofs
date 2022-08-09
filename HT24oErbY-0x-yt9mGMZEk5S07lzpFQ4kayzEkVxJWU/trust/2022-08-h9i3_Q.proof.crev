@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-08-09T19:26:53.820091138+02:00"
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: "https://github.com/matthiasbeyer/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+2M9_S0x5pByMi7CfUq8WWWtgL_YdjSATgmabaCxiwHJZk4f7e5Nz7DadRSdbuHUs-efg92Ra4K3_55D1bhRmCQ
+----- END CREV PROOF -----
+
