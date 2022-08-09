@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-09T19:49:40.100520115+02:00"
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: "https://github.com/matthiasbeyer/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: filters
+  version: 0.4.0
+  revision: 403c07bb67e3f34411e20fae63c517b4d3ac3a11
+  digest: RFSVscoG4waDOO_KYxocn4aHrktrav9X0KLND9kxVtA
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author and am confident that this crate works as advertised.
+----- SIGN CREV PROOF -----
+aIZZPn2kNo1h68uP0dFQ2dyYFZjR4iOB0524B-PJaEo_E5JSBxc1aO1TiMUmD3y6B_DteBKol6rtdUw5fSU3Cg
+----- END CREV PROOF -----
+
