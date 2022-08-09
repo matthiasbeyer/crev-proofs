@@ -70,3 +70,29 @@ comment: |-
 meKyKibxfivtbIb4zHh84DEdQ4zB6Gtnme17QwLBdAR-n7ajbQwV8oWQhvkWoS1zRljPho1j9pgmZwblrgCzDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-09T19:52:11.518142353+02:00"
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: "https://github.com/matthiasbeyer/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: config
+  version: 0.13.2
+  revision: 588a4610d28bd47e341d43c5f2168ff3b5357556
+  digest: 4-j96FgW9HVjooZfvnkZuesw3dVQ0Wl4W0b4lYM6WmU
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the current maintainer of the project and am reasonably confident that
+  there are no major issues with the codebase besides the documented one in the
+  github issue tracker.
+----- SIGN CREV PROOF -----
+OLlNlymcArtzm-9pcrR2efRKRTpt0GM_zfeNZb7pKgdqhleqZJzP2u4TKvl_FzzQbOwMp1e8skkz_wOCTaKhCw
+----- END CREV PROOF -----
+
