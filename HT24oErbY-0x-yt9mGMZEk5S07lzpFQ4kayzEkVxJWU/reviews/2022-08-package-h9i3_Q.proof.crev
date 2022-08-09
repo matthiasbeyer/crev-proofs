@@ -46,3 +46,27 @@ comment: |-
 b6v4jVpXXqEDbEdTlL5QkmjhDYEXUifHORn-WQDapQ5cIPW_ZHRHr1oJnotqdNwTGpfNtI-KqH4k8PvszyusDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-09T19:51:23.960298493+02:00"
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: "https://github.com/matthiasbeyer/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: resiter
+  version: 0.4.0
+  revision: dc3fa9925a8f6031c9b472bbbb7700e2aaa7404d
+  digest: eE8_kcS5_m9WvnRXHxikiuUDMfgaogomT3WqaVFvW3A
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author and am confident that this crate works as advertised.
+----- SIGN CREV PROOF -----
+meKyKibxfivtbIb4zHh84DEdQ4zB6Gtnme17QwLBdAR-n7ajbQwV8oWQhvkWoS1zRljPho1j9pgmZwblrgCzDg
+----- END CREV PROOF -----
+
