@@ -153,3 +153,30 @@ comment: |-
 V8hqwSgjvH2agdvjr6I_NE4MOsTL6mN8kq1CVyZtusqZ8I7BLsSmBfP8Vu8OnvUKthR7rG-IEn94W44xpkIFCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T15:54:37.015523721+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: exitcode
+  version: 1.1.2
+  digest: z01FwfS9ENntBxUXWNrcyT7ppF3-JU32544smcssDJ4
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+flags:
+  unmaintained: true
+comment: |-
+  Crate is just a collection of constants with some conveniance functionality
+  added. Should be perfectly fine to use, although the crate seems to be no
+  longer maintained.
+----- SIGN CREV PROOF -----
+Yyc2JI9GBAXgwe6mf5X3y6b7xzmqi_Pl9h8TRXbpzXj7HdzkpK26Us7u-FjVBlA5Nj2tYsAj6NtRw-88-uq6Cw
+----- END CREV PROOF -----
+
