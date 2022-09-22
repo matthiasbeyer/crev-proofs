@@ -80,3 +80,27 @@ comment: |-
 7IlTqpeXQUwrnHA2Oib9_H0YXxkQWhTzgzVTlwUgpo6SfLT3J9hcyV1dKILxIDPpGheK1XrDg2fq9gguY_XlDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T11:17:53.012452490+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: atty
+  version: 0.2.14
+  revision: 7b5df17888997d57c2c1c8f91da1db5691f49953
+  digest: WJaqS5xu6ORo2px2Rku1ynYYN4TuCdxeS8LR68ngyw4
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Simple codebase, looks good. Did not look at the cfg(windows) code.
+----- SIGN CREV PROOF -----
+9HBpuqIVBXJWBDGhMKqM9TXrqPQ4I_mCtS51is_wzUloYKEwJ9P29yM3h9Vv9XlkMqsyk-eIwEqY4iF0XFDQDQ
+----- END CREV PROOF -----
+
