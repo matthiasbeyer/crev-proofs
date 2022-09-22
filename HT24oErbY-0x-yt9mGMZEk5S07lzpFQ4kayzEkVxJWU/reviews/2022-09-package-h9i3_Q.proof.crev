@@ -55,3 +55,28 @@ comment: |-
 Nnrqgqc9s1skedElXAqsP21YYvBH2LfGfbdHY-2Qjyo29JEnB7_fnSeosKAOf_HHNNyDF8uR2SS2Gt27v_JXDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T11:11:51.719298064+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: comma
+  version: 1.0.0
+  revision: 01828e71a20d81acdbecbbf5df36ba8e3d302eba
+  digest: MhvNnj6wKgX-feHZmpJSdJOTAoKKhQ-axx3eJzIXKKo
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Not much code and easy to understand. As of today, the crate has no CI in
+  place, which may concern some. But it seems to be rather feature-complete.
+----- SIGN CREV PROOF -----
+7IlTqpeXQUwrnHA2Oib9_H0YXxkQWhTzgzVTlwUgpo6SfLT3J9hcyV1dKILxIDPpGheK1XrDg2fq9gguY_XlDw
+----- END CREV PROOF -----
+
