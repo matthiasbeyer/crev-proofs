@@ -1,0 +1,26 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T10:46:35.640201702+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: which
+  version: 4.2.5
+  revision: ca9cc93b392fa1d0eb4eb2a60c74b3b3ecff03bb
+  digest: G0IlZmU-eYWtWJcMHKvX0hczEtBCEwRyhzDweTUFj1U
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Only one instance of unsafe code which seems ok to me (though I am not
+  experienced with unsafe code). Did not have a look at the cfg(windows) code
+  parts.
+----- SIGN CREV PROOF -----
+pgBjGB6BH5ZRvpahzMPgfKGoYU9jVbZ079pEXqEaXVuhwgdxAQU8i3g9ddmTbkeYLysUU9hA1Cu4q_Vh_wMBDw
+----- END CREV PROOF -----
+
