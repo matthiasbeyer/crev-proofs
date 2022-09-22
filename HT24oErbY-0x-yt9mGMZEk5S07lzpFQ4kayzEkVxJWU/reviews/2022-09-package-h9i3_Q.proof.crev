@@ -24,3 +24,34 @@ comment: |-
 pgBjGB6BH5ZRvpahzMPgfKGoYU9jVbZ079pEXqEaXVuhwgdxAQU8i3g9ddmTbkeYLysUU9hA1Cu4q_Vh_wMBDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T10:57:44.862029547+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: which
+  version: 4.3.0
+  revision: 492df704947be42c30f3bc7947e75244f26a0a45
+  digest: bbVOQ-ebw8MxyDjPn50CRqXvKv2dcJOX7TPr1cCqQSw
+package-diff-base:
+  source: https://crates.io
+  name: which
+  version: 4.2.5
+  revision: ca9cc93b392fa1d0eb4eb2a60c74b3b3ecff03bb
+  digest: G0IlZmU-eYWtWJcMHKvX0hczEtBCEwRyhzDweTUFj1U
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Minor changes to the windows parts (did not look too closely). Most prominent
+  change seems to be lazy_static to be relaced with once_cell.
+----- SIGN CREV PROOF -----
+Nnrqgqc9s1skedElXAqsP21YYvBH2LfGfbdHY-2Qjyo29JEnB7_fnSeosKAOf_HHNNyDF8uR2SS2Gt27v_JXDA
+----- END CREV PROOF -----
+
