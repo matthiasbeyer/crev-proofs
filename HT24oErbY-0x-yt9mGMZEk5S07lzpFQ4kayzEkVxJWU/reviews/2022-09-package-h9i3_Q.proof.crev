@@ -204,3 +204,28 @@ comment: |-
 QXLA30PVZtw3neQICuHsWZnrXM-EaV4_8MjEXjwLshdoRRqq57E8yVqon8Dp0Ex9M5KSRd6pgMGy7t1STt55Cg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-22T18:42:09.881736210+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: clap-permission-flag
+  version: 0.2.0
+  revision: f5ebd41276652eac9ba19898ce69755dfa2b9008
+  digest: shTm7Ha8dALNFNyGizthvCCTp-Da1SYN6-F3h2ddLN8
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am one of the current maintainers of the crate and feel confident to say
+  that the crate is safe to use.
+----- SIGN CREV PROOF -----
+kkJ8cPF5yBi2JcUIwK3U5P-_9xrr8_NGvFVH11iWtLfUCOQo9hWlN5b8GxLylcz0aorNCWWDibcltWyNy_YmAg
+----- END CREV PROOF -----
+
