@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-05-31T13:24:53.689436696+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: is_ci
+  version: 1.1.1
+  revision: c21402d64e69c275367c3cbd0e6f02c432214f49
+  digest: mrjaazpwE0AOQpthhL31Bb6ukNYhi1dcXudPtk_gHX8
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Code is pretty easy to understand and seems reasonable. No unsafe found.
+----- SIGN CREV PROOF -----
+6Gl51fJT6kSdrRU2CCSj7je8JJy7UaXPReK6NUKLuD_1WRGwfSw_Ohtxu2hADXeGZNW2saG1R887_ARtsKdHCw
+----- END CREV PROOF -----
+
