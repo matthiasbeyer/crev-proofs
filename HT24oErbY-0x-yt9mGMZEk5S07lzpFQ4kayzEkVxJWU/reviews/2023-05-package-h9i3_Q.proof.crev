@@ -22,3 +22,27 @@ comment: |-
 6Gl51fJT6kSdrRU2CCSj7je8JJy7UaXPReK6NUKLuD_1WRGwfSw_Ohtxu2hADXeGZNW2saG1R887_ARtsKdHCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-05-31T13:27:04.399487139+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: supports-color
+  version: 2.0.0
+  revision: c3ced07aca96e38af7f2b7f3e262263fa0f54552
+  digest: fwjp6fzw2NVF_w3JlSWf_b0Ebzz59CmS9ElQdQEMOp4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  No major issues found.
+----- SIGN CREV PROOF -----
+OyYsrDY_hn4bNOMqaAGv_T0L7ru0wbyvgiCkbxaROkInF5KfyNyjgp6xoJAH97ifUhQ_5vLHQAVo9-ZxYlYKDQ
+----- END CREV PROOF -----
+
