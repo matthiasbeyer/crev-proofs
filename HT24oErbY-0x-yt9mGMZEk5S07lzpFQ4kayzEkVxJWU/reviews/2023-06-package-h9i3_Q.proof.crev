@@ -94,3 +94,30 @@ comment: |-
 0voz3CkhEFP-ZYC4YhECNJIWBaXAS5Jmn1ZtoLxXThQ0RR3oqdgxogplNsY_i79ufSQ46NgtNZeclRdQBWI0Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-06-07T09:05:22.242664942+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: cloudmqtt
+  version: 0.4.0
+  revision: 5e06d64cb04b331e5f125c113bc6c7a0fff5be5d
+  digest: flB2rN8gcqI9nSkLidO--ATJswWTAFIB1EYwki8GNLo
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I know that there's one line unsafe in this crate, which is necessary for
+  zero-copying reasons.
+  I am positive that the crate is completely safe to use and I know the author
+  personally.
+----- SIGN CREV PROOF -----
+zK4x1rKFFlOhin8RszkLu6RpFowwFjEswyWo_GhjbaSivad09JZvysafqdzoHVoiDsuBNf6XDjLyoHqrkfRVAg
+----- END CREV PROOF -----
+
