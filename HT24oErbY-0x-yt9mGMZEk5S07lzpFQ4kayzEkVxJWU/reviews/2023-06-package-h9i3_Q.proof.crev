@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-06-07T09:00:07.015876642+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: type_description
+  version: 0.5.0
+  revision: b45f1968574eb1346bfc655ea52f283824a612f2
+  digest: 1fs008encNHFSnt83dXBgt7lw6P8PkHjS5R1T00FBJg
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  Was invovled in writing this crate, but am not the main author.
+----- SIGN CREV PROOF -----
+ksqvRXYWSvOBTYIHw8sp5djd_Lxba1b4bP0VIv_NJx5O2n2NodqlgOZB_2Z97V9DeC30tZ6LH1CCVueR8FY9Cw
+----- END CREV PROOF -----
+
