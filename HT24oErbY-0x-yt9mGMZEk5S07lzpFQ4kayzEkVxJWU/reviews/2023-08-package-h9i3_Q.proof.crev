@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-08-11T18:30:13.097164147+02:00
+from:
+  id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+package:
+  source: https://crates.io
+  name: equivalent
+  version: 1.0.1
+  revision: 8a56bf0407d8eecf2165775a95a67cc0e956e50d
+  digest: W4k_ukmBiEYldATI3c5s83JXvtprm7JbAieIYx35Z_o
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Had a look, it is literally only a hand full of lines and there's nothing that
+  made me lift an eyebrow...
+----- SIGN CREV PROOF -----
+XhCe0elZuLQ7xZK_fEIyBONsDPCHmpPAseZSARMFsKerLd-3IzgZ0_5iYsX_3qORucTrSKltHLtaeJTscLgXCw
+----- END CREV PROOF -----
+
